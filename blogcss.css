@@ -1,0 +1,47 @@
+body{background-color: black;}
+img{position: absolute;
+right: 430px;
+top: 150px;}
+ol{list-style: none;
+display: flex;
+align-items: baseline;}
+#insta{background-color: blueviolet;
+font-size: xx-large;
+border-radius: 5px;
+border: solid white;}
+#canal{background-color: blueviolet;
+font-size: xx-large;
+position: absolute;
+right: 900px;
+border-radius: 5px;
+border: solid white;}
+#git{background-color: blueviolet;
+font-size: xx-large;
+position: absolute;
+right: 770px;
+border-radius: 5px;
+border: solid white;}
+#projetos{background-color: blueviolet;
+font-size: xx-large;
+position: absolute;
+right: 625px;
+border-radius: 5px;
+border: solid white;}
+#color{color: white;}
+#sobre{position: absolute;
+top: 160px;}
+#eu{position: absolute;
+    top: 160px;
+right: 30px;}
+A {text-decoration: none;
+color: black;}
+#zap{position: absolute;
+top: 55px;
+right: 100px;
+border: solid 3px white;
+border-radius: 6px;}
+#mail{position: absolute;
+top: 55px;
+right: 280px;
+border: solid 3px white;
+border-radius: 6px;}
